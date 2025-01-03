@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd957e8a-246b-42b5-b06f-71cd46593c49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/shop/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_bill.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_sale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bills_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/edit_bill.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/edit_product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/edit_sale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/sales_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuckshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuckshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuckshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuckshop/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="fd957e8a-246b-42b5-b06f-71cd46593c49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735912101700</updated>
-      <workItem from="1735912103645" duration="2489000" />
+      <workItem from="1735912103645" duration="3008000" />
     </task>
     <servers />
   </component>
