@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}Bills List{% endblock %}
+{% block content %}
+<div class="container">
+    <h1>Bills</h1>
+    <a href="{% url 'add_bill' %}" class="btn btn-primary mb-3">Add Bill</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for bill in bills %}
+            <tr>
+                <td>{{ bill.date }}</td>
+                <td>{{ bill.description }}</td>
+                <td>${{ bill.amount }}</td>
+                <td>
+                    <a href="{% url 'edit_bill' bill.pk %}" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="{% url 'delete_bill' bill.pk %}" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

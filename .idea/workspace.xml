@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd957e8a-246b-42b5-b06f-71cd46593c49" name="Changes" comment="" />
+    <list default="true" id="fd957e8a-246b-42b5-b06f-71cd46593c49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/shop/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/add_bill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/add_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/add_sale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bills_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/edit_bill.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/edit_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/edit_sale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/product_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sales_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuckshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuckshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuckshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuckshop/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "albertchisorot"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/albertchisorot/tuckshop.git",
+    "accountId": "d4e77f50-a1fa-4492-9d0c-0129288d877b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -21,9 +61,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735912101700</updated>
-      <workItem from="1735912103645" duration="25000" />
+      <workItem from="1735912103645" duration="2489000" />
     </task>
     <servers />
   </component>
